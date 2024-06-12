@@ -1,0 +1,159 @@
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.csproj.AssemblyReference.cache
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\App.g.cs
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS_MarkupCompile.cache
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS_MarkupCompile.lref
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.exe
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.deps.json
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.runtimeconfig.json
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.pdb
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\FParsec.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\FParsecCS.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\FSharp.Core.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\MathNet.Numerics.FSharp.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\MathNet.Symbolics.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\KPI\Hometasks\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\MainWindow.baml
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.g.resources
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.AssemblyInfoInputs.cache
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.AssemblyInfo.cs
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.csproj.CoreCompileInputs.cache
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.csproj.Up2Date
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.dll
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\refint\PEMDAS.dll
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.pdb
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.genruntimeconfig.cache
+D:\KPI\Hometasks\PEMDAS\obj\Debug\net8.0-windows\ref\PEMDAS.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.exe
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.deps.json
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.runtimeconfig.json
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\PEMDAS.pdb
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\FParsec.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\FParsecCS.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\FSharp.Core.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\MathNet.Numerics.FSharp.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\MathNet.Symbolics.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.csproj.AssemblyReference.cache
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS_MarkupCompile.cache
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS_MarkupCompile.lref
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.g.resources
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.AssemblyInfoInputs.cache
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.AssemblyInfo.cs
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.csproj.CoreCompileInputs.cache
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.sourcelink.json
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.csproj.Up2Date
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\refint\PEMDAS.dll
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.pdb
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\PEMDAS.genruntimeconfig.cache
+C:\Users\forcs\OneDrive\Рабочий стол\KURSOVA\PEMDAS\obj\Debug\net8.0-windows\ref\PEMDAS.dll
